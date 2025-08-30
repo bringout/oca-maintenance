@@ -2,5 +2,5 @@
 
 This addon depends on:
 
-- [maintenance](https://github.com/bringout/oca-ocb-vertical-industry/tree/ceb28cbd494cf78988dff69778c4e3c938a40f59/odoo-bringout-oca-ocb-maintenance)
-- [repair](https://github.com/bringout/oca-ocb-core/tree/e9ca19c0c154b94934ea86258814c560c4e016f4/odoo-bringout-oca-ocb-repair)
+- [maintenance](https://github.com/bringout/oca-ocb-vertical-industry/tree/b20a71aa887f097f835c1d9682be635a67653ad9/odoo-bringout-oca-ocb-maintenance)
+- [repair](https://github.com/bringout/oca-ocb-core/tree/11a704b400b8bf0763643e267bf123858a85c9e6/odoo-bringout-oca-ocb-repair)
