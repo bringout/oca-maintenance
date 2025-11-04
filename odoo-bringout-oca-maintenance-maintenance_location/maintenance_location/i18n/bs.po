@@ -19,6 +19,8 @@ msgid ""
 "<br/>\n"
 "                            Longitude:"
 msgstr ""
+"<br/>\n"
+"                            Geografska dužina:"
 
 #. module: maintenance_location
 #: model_terms:ir.ui.view,arch_db:maintenance_location.hr_equipment_view_kanban
@@ -62,7 +64,7 @@ msgstr "Prikazani naziv"
 
 #. module: maintenance_location
 #. odoo-python
-#: code:addons/maintenance_location/models/maintenance_location.py:0
+#: code:addons/maintenance_location/models/maintenance_location.py
 #, python-format
 msgid "Error ! You cannot create recursive Locations."
 msgstr "Greška ! You cannot create recursive Locations."
@@ -95,13 +97,10 @@ msgstr "Latitude"
 #. module: maintenance_location
 #: model_terms:ir.ui.view,arch_db:maintenance_location.maintenance_location_form_view
 msgid "Latitude:"
-msgstr "Latitude:"
+msgstr "Geografska širina:"
 
 #. module: maintenance_location
 #: model:ir.model.fields,field_description:maintenance_location.field_maintenance_equipment__location_id
-#: model:ir.model.fields,field_description:maintenance_location.field_maintenance_plan__location_id
-#: model:ir.model.fields,field_description:maintenance_location.field_maintenance_request__location_id
-#: model_terms:ir.ui.view,arch_db:maintenance_location.maintenance_location_form_view
 msgid "Location"
 msgstr "Lokacija"
 
@@ -132,7 +131,6 @@ msgstr "Oprema za održavanje"
 
 #. module: maintenance_location
 #: model:ir.actions.act_window,name:maintenance_location.maintenance_location_act_window
-#: model:ir.model,name:maintenance_location.model_maintenance_location
 msgid "Maintenance Location"
 msgstr "Maintenance Lokacija"
 

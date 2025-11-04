@@ -25,6 +25,9 @@ msgid ""
 "                            Hours\n"
 "                        </span>"
 msgstr ""
+"<span class=\"o_stat_text\">\n"
+"                            Sati\n"
+"                        </span>"
 
 #. module: maintenance_timesheet
 #: model_terms:ir.ui.view,arch_db:maintenance_timesheet.report_maintenance_request_document
@@ -48,11 +51,13 @@ msgstr "Analitička stavka"
 
 #. module: maintenance_timesheet
 #. odoo-python
-#: code:addons/maintenance_timesheet/models/hr_timesheet.py:0
+#: code:addons/maintenance_timesheet/models/hr_timesheet.py
 #, python-format
 msgid ""
 "Cannot save or delete a timesheet for a maintenance request already done"
 msgstr ""
+"Nije moguće sačuvati ili obrisati radni list za zahtjev za održavanje koji "
+"je već završen"
 
 #. module: maintenance_timesheet
 #: model_terms:ir.ui.view,arch_db:maintenance_timesheet.report_maintenance_request_document
@@ -76,7 +81,6 @@ msgstr "Oprema za održavanje"
 
 #. module: maintenance_timesheet
 #: model:ir.model,name:maintenance_timesheet.model_maintenance_request
-#: model:ir.model.fields,field_description:maintenance_timesheet.field_account_analytic_line__maintenance_request_id
 msgid "Maintenance Request"
 msgstr "Zahtjev za održavanje"
 
@@ -127,7 +131,5 @@ msgstr "Ukupno sati radnog lista"
 
 #. module: maintenance_timesheet
 #: model:ir.actions.act_window,name:maintenance_timesheet.timesheet_action_from_request
-#: model:ir.model.fields,field_description:maintenance_timesheet.field_maintenance_request__timesheet_ids
-#: model_terms:ir.ui.view,arch_db:maintenance_timesheet.equipment_request_view_form
 msgid "Timesheets"
 msgstr "Šihtarice"

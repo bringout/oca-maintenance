@@ -45,7 +45,6 @@ msgstr "Nalog za nabavu"
 
 #. module: maintenance_request_purchase
 #: model:ir.model.fields,field_description:maintenance_request_purchase.field_maintenance_request__purchase_order_ids
-#: model_terms:ir.ui.view,arch_db:maintenance_request_purchase.hr_equipment_request_view_form_button_box
 msgid "Purchase Orders"
 msgstr "Nalozi u nabavi"
 

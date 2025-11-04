@@ -39,6 +39,9 @@ msgid ""
 "Prefix used to generate the internal reference for re created with this "
 "category. If blank the default sequence will be used."
 msgstr ""
+"Prefiks koji se koristi za generiranje interne reference za zahtjeve "
+"kreirane sa ovom kategorijom. Ako je prazan, koristit će se podrazumijevana "
+"sekvenca."
 
 #. module: maintenance_request_sequence
 #: model:ir.model.fields,field_description:maintenance_request_sequence.field_maintenance_team__sequence_id

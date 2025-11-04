@@ -15,11 +15,12 @@ msgstr ""
 
 #. module: maintenance_equipment_usage
 #: model_terms:ir.ui.view,arch_db:maintenance_equipment_usage.hr_equipment_view_form
-#: model_terms:ir.ui.view,arch_db:maintenance_equipment_usage.hr_equipment_view_kanban
 msgid ""
 "<span groups=\"maintenance.group_equipment_manager\" class=\"label label-"
 "primary\" attrs=\"{'invisible': [('in_use', '=', False)]}\">In use</span>"
 msgstr ""
+"<span groups=\"maintenance.group_equipment_manager\" class=\"label label-"
+"primary\" attrs=\"{'invisible': [('in_use', '=', False)]}\">In use</span>"
 
 #. module: maintenance_equipment_usage
 #: model:ir.model.fields,field_description:maintenance_equipment_usage.field_maintenance_equipment_usage__message_needaction
@@ -58,13 +59,11 @@ msgstr "Otkaži"
 
 #. module: maintenance_equipment_usage
 #: model:ir.model.fields.selection,name:maintenance_equipment_usage.selection__maintenance_equipment_usage__state__cancel
-#: model_terms:ir.ui.view,arch_db:maintenance_equipment_usage.maintenance_equipment_usage_search
 msgid "Cancelled"
 msgstr "Otkazan"
 
 #. module: maintenance_equipment_usage
 #: model_terms:ir.actions.act_window,help:maintenance_equipment_usage.maintenance_equipment_usage_action
-#: model_terms:ir.actions.act_window,help:maintenance_equipment_usage.maintenance_equipment_usage_action_from_equipment
 msgid "Click to create an Equipment Usage."
 msgstr "Click to create an Equipment Usage."
 
@@ -95,14 +94,11 @@ msgstr "Vozač"
 
 #. module: maintenance_equipment_usage
 #: model:ir.model.fields,field_description:maintenance_equipment_usage.field_maintenance_equipment_usage__equipment_id
-#: model_terms:ir.ui.view,arch_db:maintenance_equipment_usage.maintenance_equipment_usage_search
 msgid "Equipment"
 msgstr "Oprema"
 
 #. module: maintenance_equipment_usage
 #: model:ir.actions.act_window,name:maintenance_equipment_usage.maintenance_equipment_usage_action
-#: model:ir.actions.act_window,name:maintenance_equipment_usage.maintenance_equipment_usage_action_from_equipment
-#: model:ir.model.fields,field_description:maintenance_equipment_usage.field_maintenance_equipment_usage__name
 msgid "Equipment Usage"
 msgstr "Equipment Usage"
 
@@ -113,7 +109,7 @@ msgstr "Oprema"
 
 #. module: maintenance_equipment_usage
 #. odoo-python
-#: code:addons/maintenance_equipment_usage/models/maintenance_equipment_usage.py:0
+#: code:addons/maintenance_equipment_usage/models/maintenance_equipment_usage.py
 #, python-format
 msgid "Every equipment can only be picked once at the same time!"
 msgstr "Every equipment can only be picked once at the same time!"
@@ -170,8 +166,6 @@ msgstr "Ako je označeno neke poruke mogu imati grešku u dostavi."
 
 #. module: maintenance_equipment_usage
 #: model:ir.model.fields,field_description:maintenance_equipment_usage.field_maintenance_equipment__in_use
-#: model:ir.model.fields.selection,name:maintenance_equipment_usage.selection__maintenance_equipment_usage__state__in_use
-#: model_terms:ir.ui.view,arch_db:maintenance_equipment_usage.maintenance_equipment_usage_search
 msgid "In Use"
 msgstr "In Use"
 
@@ -232,10 +226,7 @@ msgstr "Rok za moju aktivnost"
 
 #. module: maintenance_equipment_usage
 #. odoo-python
-#: code:addons/maintenance_equipment_usage/models/maintenance_equipment_usage.py:0
-#: code:addons/maintenance_equipment_usage/models/maintenance_equipment_usage.py:0
-#: code:addons/maintenance_equipment_usage/models/maintenance_equipment_usage.py:0
-#: model:ir.model.fields.selection,name:maintenance_equipment_usage.selection__maintenance_equipment_usage__state__draft
+#: code:addons/maintenance_equipment_usage/models/maintenance_equipment_usage.py
 #, python-format
 msgid "New"
 msgstr "Novi"
@@ -262,7 +253,6 @@ msgstr "Not Returned"
 
 #. module: maintenance_equipment_usage
 #: model:ir.model.fields,field_description:maintenance_equipment_usage.field_maintenance_equipment_usage__notes
-#: model_terms:ir.ui.view,arch_db:maintenance_equipment_usage.maintenance_equipment_usage_form
 msgid "Notes"
 msgstr "Zabilješke"
 
@@ -333,7 +323,6 @@ msgstr "Return Datum"
 
 #. module: maintenance_equipment_usage
 #: model:ir.model.fields.selection,name:maintenance_equipment_usage.selection__maintenance_equipment_usage__state__returned
-#: model_terms:ir.ui.view,arch_db:maintenance_equipment_usage.maintenance_equipment_usage_search
 msgid "Returned"
 msgstr "Vraćeno"
 
@@ -360,6 +349,10 @@ msgid ""
 "Today: Activity date is today\n"
 "Planned: Future activities."
 msgstr ""
+"Status baziran na aktivnostima\n"
+"Zakašnjelo: Rok je već prošao\n"
+"Danas: Datum aktivnosti je danas\n"
+"Planirano: Buduće aktivnosti."
 
 #. module: maintenance_equipment_usage
 #: model_terms:ir.ui.view,arch_db:maintenance_equipment_usage.maintenance_equipment_usage_search
@@ -378,8 +371,6 @@ msgstr "Usage Broj"
 
 #. module: maintenance_equipment_usage
 #: model:ir.model.fields,field_description:maintenance_equipment_usage.field_maintenance_equipment__usage_ids
-#: model:ir.ui.menu,name:maintenance_equipment_usage.menu_maintenance_equipment_usage_action
-#: model_terms:ir.ui.view,arch_db:maintenance_equipment_usage.hr_equipment_view_form
 msgid "Usages"
 msgstr "Usages"
 

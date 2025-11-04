@@ -20,7 +20,7 @@ msgstr "Child Equipments"
 
 #. module: maintenance_equipment_hierarchy
 #. odoo-python
-#: code:addons/maintenance_equipment_hierarchy/models/maintenance_equipment.py:0
+#: code:addons/maintenance_equipment_hierarchy/models/maintenance_equipment.py
 #, python-format
 msgid "Child equipment of %s"
 msgstr "Child equipment of %s"

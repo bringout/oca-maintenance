@@ -20,7 +20,6 @@ msgstr "Konfigurišite održavanje"
 
 #. module: base_maintenance_config
 #: model:ir.actions.act_window,name:base_maintenance_config.action_maintenance_config_settings
-#: model:ir.ui.menu,name:base_maintenance_config.menu_maintenance_config_settings
 msgid "General Settings"
 msgstr "Opšte postavke"
 

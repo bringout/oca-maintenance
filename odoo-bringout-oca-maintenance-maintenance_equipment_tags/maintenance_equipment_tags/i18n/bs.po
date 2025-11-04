@@ -45,7 +45,6 @@ msgstr "Equipment Tag"
 
 #. module: maintenance_equipment_tags
 #: model:ir.actions.act_window,name:maintenance_equipment_tags.maintenance_equipment_tag_act_window
-#: model:ir.ui.menu,name:maintenance_equipment_tags.maintenance_equipment_tag_menu
 msgid "Equipment Tags"
 msgstr "Equipment Tags"
 

@@ -25,7 +25,6 @@ msgstr "Broj ugovora"
 
 #. module: maintenance_equipment_contract
 #: model:ir.model.fields,field_description:maintenance_equipment_contract.field_maintenance_equipment__contract_ids
-#: model_terms:ir.ui.view,arch_db:maintenance_equipment_contract.hr_equipment_view_form
 msgid "Contracts"
 msgstr "Ugovori"
 

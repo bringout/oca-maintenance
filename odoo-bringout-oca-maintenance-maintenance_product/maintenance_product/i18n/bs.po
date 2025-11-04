@@ -15,7 +15,6 @@ msgstr ""
 
 #. module: maintenance_product
 #: model:ir.model.fields,field_description:maintenance_product.field_product_product__maintenance_ok
-#: model:ir.model.fields,field_description:maintenance_product.field_product_template__maintenance_ok
 msgid "Can be Maintenance"
 msgstr "Može biti održavanje"
 
@@ -41,14 +40,11 @@ msgstr "Kategorija opreme za održavanje"
 
 #. module: maintenance_product
 #: model:ir.model,name:maintenance_product.model_product_template
-#: model:ir.model.fields,field_description:maintenance_product.field_maintenance_equipment__product_id
 msgid "Product"
 msgstr "Artikal"
 
 #. module: maintenance_product
 #: model:ir.model,name:maintenance_product.model_product_category
-#: model:ir.model.fields,field_description:maintenance_product.field_maintenance_equipment__product_category_id
-#: model:ir.model.fields,field_description:maintenance_product.field_maintenance_equipment_category__product_category_id
 msgid "Product Category"
 msgstr "Kategorija proizvoda"
 

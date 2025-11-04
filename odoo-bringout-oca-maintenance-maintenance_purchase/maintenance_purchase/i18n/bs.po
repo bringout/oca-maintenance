@@ -20,7 +20,6 @@ msgstr "Kategorija opreme"
 
 #. module: maintenance_purchase
 #: model:ir.model.fields,field_description:maintenance_purchase.field_purchase_order__equipment_count
-#: model:ir.model.fields,field_description:maintenance_purchase.field_purchase_order_line__equipment_count
 msgid "Equipment Count"
 msgstr "Broj opreme"
 

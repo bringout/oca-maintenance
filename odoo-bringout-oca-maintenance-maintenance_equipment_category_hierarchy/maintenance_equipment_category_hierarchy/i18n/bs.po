@@ -25,7 +25,7 @@ msgstr "Puni naziv"
 
 #. module: maintenance_equipment_category_hierarchy
 #. odoo-python
-#: code:addons/maintenance_equipment_category_hierarchy/models/maintenance_equipment_category.py:0
+#: code:addons/maintenance_equipment_category_hierarchy/models/maintenance_equipment_category.py
 #, python-format
 msgid "Error ! You cannot create recursive categories."
 msgstr "Greška! Ne možete kreirati rekurzivne kategorije."

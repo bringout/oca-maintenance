@@ -25,7 +25,7 @@ msgstr "Tip aktivnosti"
 
 #. module: maintenance_plan_activity
 #. odoo-python
-#: code:addons/maintenance_plan_activity/models/maintenance.py:0
+#: code:addons/maintenance_plan_activity/models/maintenance.py
 #, python-format
 msgid "Activity automatically generated from maintenance plan"
 msgstr "Aktivnost automatski generisana iz plana održavanja"
@@ -72,7 +72,6 @@ msgstr "Oprema za održavanje"
 
 #. module: maintenance_plan_activity
 #: model:ir.model,name:maintenance_plan_activity.model_maintenance_plan
-#: model:ir.model.fields,field_description:maintenance_plan_activity.field_maintenance_planned_activity__maintenance_plan_id
 msgid "Maintenance Plan"
 msgstr "Plan održavanja"
 
@@ -102,3 +101,5 @@ msgid ""
 "This is the number of days the due date of the activity will beset before "
 "the Maintenance request scheduled date"
 msgstr ""
+"Ovo je broj dana za koji će se krajnji rok aktivnosti postaviti prije "
+"zakazanog datuma zahtjeva za održavanje"

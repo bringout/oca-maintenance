@@ -50,7 +50,6 @@ msgstr "Broj opreme"
 
 #. module: maintenance_project
 #: model:ir.model.fields,field_description:maintenance_project.field_project_project__equipment_ids
-#: model_terms:ir.ui.view,arch_db:maintenance_project.edit_project
 msgid "Equipments"
 msgstr "Oprema"
 
@@ -96,14 +95,11 @@ msgstr "Zahtjevi za održavanje"
 
 #. module: maintenance_project
 #: model:ir.model,name:maintenance_project.model_project_project
-#: model:ir.model.fields,field_description:maintenance_project.field_maintenance_equipment__project_id
-#: model:ir.model.fields,field_description:maintenance_project.field_maintenance_request__project_id
 msgid "Project"
 msgstr "Projekat"
 
 #. module: maintenance_project
 #: model_terms:ir.ui.view,arch_db:maintenance_project.hr_equipment_request_view_kanban
-#: model_terms:ir.ui.view,arch_db:maintenance_project.hr_equipment_view_kanban
 msgid "Project:"
 msgstr "Projekat:"
 

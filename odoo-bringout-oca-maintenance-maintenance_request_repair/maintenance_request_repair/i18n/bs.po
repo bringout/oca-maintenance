@@ -35,6 +35,5 @@ msgstr "Održavanja"
 
 #. module: maintenance_request_repair
 #: model:ir.model,name:maintenance_request_repair.model_repair_order
-#: model:ir.model.fields,field_description:maintenance_request_repair.field_maintenance_request__repair_order_id
 msgid "Repair Order"
 msgstr "Nalog za popravak"

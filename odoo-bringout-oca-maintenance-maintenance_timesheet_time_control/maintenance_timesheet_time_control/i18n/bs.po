@@ -45,15 +45,10 @@ msgstr "Prikaži kontrole vremena"
 
 #. module: maintenance_timesheet_time_control
 #: model_terms:ir.ui.view,arch_db:maintenance_timesheet_time_control.hr_equipment_request_view_form
-#: model_terms:ir.ui.view,arch_db:maintenance_timesheet_time_control.hr_equipment_request_view_kanban
-#: model_terms:ir.ui.view,arch_db:maintenance_timesheet_time_control.hr_equipment_request_view_tree
 msgid "Start work"
 msgstr "Pokreni rad"
 
 #. module: maintenance_timesheet_time_control
 #: model_terms:ir.ui.view,arch_db:maintenance_timesheet_time_control.equipment_request_view_form
-#: model_terms:ir.ui.view,arch_db:maintenance_timesheet_time_control.hr_equipment_request_view_form
-#: model_terms:ir.ui.view,arch_db:maintenance_timesheet_time_control.hr_equipment_request_view_kanban
-#: model_terms:ir.ui.view,arch_db:maintenance_timesheet_time_control.hr_equipment_request_view_tree
 msgid "Stop work"
 msgstr "Zaustavi rad"

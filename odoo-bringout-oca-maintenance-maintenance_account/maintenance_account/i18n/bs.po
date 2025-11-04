@@ -20,9 +20,6 @@ msgstr "Kategorija opreme"
 
 #. module: maintenance_account
 #: model:ir.model.fields,field_description:maintenance_account.field_account_bank_statement_line__equipment_count
-#: model:ir.model.fields,field_description:maintenance_account.field_account_move__equipment_count
-#: model:ir.model.fields,field_description:maintenance_account.field_account_move_line__equipment_count
-#: model:ir.model.fields,field_description:maintenance_account.field_account_payment__equipment_count
 msgid "Equipment Count"
 msgstr "Equipment Broj"
 
