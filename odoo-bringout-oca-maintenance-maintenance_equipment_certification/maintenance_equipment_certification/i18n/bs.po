@@ -66,17 +66,17 @@ msgstr "ID"
 #. module: maintenance_equipment_certification
 #: model:ir.model.fields,field_description:maintenance_equipment_certification.field_maintenance_equipment_certificate____last_update
 msgid "Last Modified on"
-msgstr "Zadnja izmjena na"
+msgstr "Zadnje mijenjano"
 
 #. module: maintenance_equipment_certification
 #: model:ir.model.fields,field_description:maintenance_equipment_certification.field_maintenance_equipment_certificate__write_uid
 msgid "Last Updated by"
-msgstr "Zadnje ažuriranje izvršio"
+msgstr "Zadnji ažurirao"
 
 #. module: maintenance_equipment_certification
 #: model:ir.model.fields,field_description:maintenance_equipment_certification.field_maintenance_equipment_certificate__write_date
 msgid "Last Updated on"
-msgstr "Zadnje ažuriranje na"
+msgstr "Zadnje ažurirano"
 
 #. module: maintenance_equipment_certification
 #: model:ir.model,name:maintenance_equipment_certification.model_maintenance_equipment

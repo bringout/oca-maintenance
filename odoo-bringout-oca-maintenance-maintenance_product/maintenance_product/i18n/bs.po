@@ -41,7 +41,7 @@ msgstr "Kategorija opreme za održavanje"
 #. module: maintenance_product
 #: model:ir.model,name:maintenance_product.model_product_template
 msgid "Product"
-msgstr "Proizvod"
+msgstr "Artikal"
 
 #. module: maintenance_product
 #: model:ir.model,name:maintenance_product.model_product_category

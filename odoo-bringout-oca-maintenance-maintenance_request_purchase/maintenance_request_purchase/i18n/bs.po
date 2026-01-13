@@ -41,12 +41,12 @@ msgstr "Otvori"
 #. module: maintenance_request_purchase
 #: model:ir.model,name:maintenance_request_purchase.model_purchase_order
 msgid "Purchase Order"
-msgstr "Zahtjevi za nabavom"
+msgstr "Nalog za nabavu"
 
 #. module: maintenance_request_purchase
 #: model:ir.model.fields,field_description:maintenance_request_purchase.field_maintenance_request__purchase_order_ids
 msgid "Purchase Orders"
-msgstr "Zahtjevi za nabavom"
+msgstr "Nalozi u nabavi"
 
 #. module: maintenance_request_purchase
 #: model:ir.model.fields,field_description:maintenance_request_purchase.field_maintenance_request__purchases_count

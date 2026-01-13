@@ -53,17 +53,17 @@ msgstr "ID"
 #. module: maintenance_plan_activity
 #: model:ir.model.fields,field_description:maintenance_plan_activity.field_maintenance_planned_activity____last_update
 msgid "Last Modified on"
-msgstr "Zadnja izmjena na"
+msgstr "Zadnje mijenjano"
 
 #. module: maintenance_plan_activity
 #: model:ir.model.fields,field_description:maintenance_plan_activity.field_maintenance_planned_activity__write_uid
 msgid "Last Updated by"
-msgstr "Zadnje ažuriranje izvršio"
+msgstr "Zadnji ažurirao"
 
 #. module: maintenance_plan_activity
 #: model:ir.model.fields,field_description:maintenance_plan_activity.field_maintenance_planned_activity__write_date
 msgid "Last Updated on"
-msgstr "Zadnje ažuriranje na"
+msgstr "Zadnje ažurirano"
 
 #. module: maintenance_plan_activity
 #: model:ir.model,name:maintenance_plan_activity.model_maintenance_equipment

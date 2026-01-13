@@ -71,7 +71,7 @@ msgstr "Nadređeni tim"
 #. module: maintenance_team_hierarchy
 #: model:ir.model.fields,field_description:maintenance_team_hierarchy.field_maintenance_team__request_ids
 msgid "Request"
-msgstr "Datum zahtjeva"
+msgstr "Zahtjev"
 
 #. module: maintenance_team_hierarchy
 #: model:ir.model.fields,field_description:maintenance_team_hierarchy.field_maintenance_team__todo_request_ids
