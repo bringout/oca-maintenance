@@ -51,9 +51,9 @@ msgstr "Zahtjev za nabavu"
 #. module: maintenance_purchase
 #: model:ir.model,name:maintenance_purchase.model_purchase_order
 msgid "Purchase Order"
-msgstr "Nalog za nabavu"
+msgstr "Zahtjevi za nabavom"
 
 #. module: maintenance_purchase
 #: model:ir.model,name:maintenance_purchase.model_purchase_order_line
 msgid "Purchase Order Line"
-msgstr "Stavka naloga za nabavu"
+msgstr "Stavka zahtjeva za nabavu"

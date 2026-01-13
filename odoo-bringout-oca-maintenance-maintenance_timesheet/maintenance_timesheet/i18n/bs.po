@@ -107,7 +107,7 @@ msgstr "Preostali sati"
 #. module: maintenance_timesheet
 #: model_terms:ir.ui.view,arch_db:maintenance_timesheet.hr_timesheet_line_search
 msgid "Request"
-msgstr "Zahtjev"
+msgstr "Datum zahtjeva"
 
 #. module: maintenance_timesheet
 #: model_terms:ir.ui.view,arch_db:maintenance_timesheet.report_maintenance_request_document
