@@ -25,12 +25,12 @@ msgstr ""
 #. module: maintenance_location
 #: model_terms:ir.ui.view,arch_db:maintenance_location.hr_equipment_view_kanban
 msgid "<i class=\"fa fa-map-marker\" title=\"location\"/>"
-msgstr "<i class=\"fa fa-map-marker\" title=\"location\"/>"
+msgstr ""
 
 #. module: maintenance_location
 #: model:ir.model.fields,field_description:maintenance_location.field_maintenance_location__active
 msgid "Active"
-msgstr "Aktivan"
+msgstr "Aktivno"
 
 #. module: maintenance_location
 #: model:ir.model.fields,field_description:maintenance_location.field_maintenance_location__child_id
@@ -60,11 +60,11 @@ msgstr "Opis"
 #. module: maintenance_location
 #: model:ir.model.fields,field_description:maintenance_location.field_maintenance_location__display_name
 msgid "Display Name"
-msgstr "Prikazani naziv"
+msgstr "Naziv za prikaz"
 
 #. module: maintenance_location
 #. odoo-python
-#: code:addons/maintenance_location/models/maintenance_location.py
+#: code:addons/maintenance_location/models/maintenance_location.py:0
 #, python-format
 msgid "Error ! You cannot create recursive Locations."
 msgstr "Greška ! You cannot create recursive Locations."
@@ -77,7 +77,7 @@ msgstr "ID"
 #. module: maintenance_location
 #: model:ir.model.fields,field_description:maintenance_location.field_maintenance_location____last_update
 msgid "Last Modified on"
-msgstr "Zadnje mijenjano"
+msgstr "Zadnja izmjena"
 
 #. module: maintenance_location
 #: model:ir.model.fields,field_description:maintenance_location.field_maintenance_location__write_uid
@@ -92,7 +92,7 @@ msgstr "Zadnje ažurirano"
 #. module: maintenance_location
 #: model:ir.model.fields,field_description:maintenance_location.field_maintenance_location__latitude
 msgid "Latitude"
-msgstr "Latitude"
+msgstr ""
 
 #. module: maintenance_location
 #: model_terms:ir.ui.view,arch_db:maintenance_location.maintenance_location_form_view
@@ -122,7 +122,7 @@ msgstr "Lokacija name"
 #. module: maintenance_location
 #: model:ir.model.fields,field_description:maintenance_location.field_maintenance_location__longitude
 msgid "Longitude"
-msgstr "Longitude"
+msgstr ""
 
 #. module: maintenance_location
 #: model:ir.model,name:maintenance_location.model_maintenance_equipment
@@ -142,7 +142,7 @@ msgstr "Maintenance Lokacijas"
 #. module: maintenance_location
 #: model:ir.model,name:maintenance_location.model_maintenance_plan
 msgid "Maintenance Plan"
-msgstr "Maintenance Plan"
+msgstr ""
 
 #. module: maintenance_location
 #: model:ir.model,name:maintenance_location.model_maintenance_request
@@ -152,7 +152,7 @@ msgstr "Zahtjev za održavanje"
 #. module: maintenance_location
 #: model:ir.model.fields,field_description:maintenance_location.field_maintenance_location__name
 msgid "Name"
-msgstr "Naziv:"
+msgstr "Naziv"
 
 #. module: maintenance_location
 #: model:ir.model.fields,field_description:maintenance_location.field_maintenance_location__parent_id
@@ -172,7 +172,7 @@ msgstr "Partner"
 #. module: maintenance_location
 #: model:ir.model.fields,field_description:maintenance_location.field_maintenance_location__sequence
 msgid "Sequence"
-msgstr "Sekvenca"
+msgstr "Redoslijed"
 
 #. module: maintenance_location
 #: model_terms:ir.ui.view,arch_db:maintenance_location.maintenance_location_form_view

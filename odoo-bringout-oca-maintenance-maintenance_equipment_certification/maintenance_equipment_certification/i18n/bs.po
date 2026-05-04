@@ -16,17 +16,17 @@ msgstr ""
 #. module: maintenance_equipment_certification
 #: model:ir.model.fields,field_description:maintenance_equipment_certification.field_maintenance_equipment_certificate__certificate_file
 msgid "Certificate"
-msgstr "Certificate"
+msgstr ""
 
 #. module: maintenance_equipment_certification
 #: model:ir.model.fields,field_description:maintenance_equipment_certification.field_maintenance_equipment_certificate__certificate_filename
 msgid "Certificate file name"
-msgstr "Certificate file name"
+msgstr ""
 
 #. module: maintenance_equipment_certification
 #: model:ir.model.fields,field_description:maintenance_equipment_certification.field_maintenance_equipment__certificate_ids
 msgid "Certificates"
-msgstr "Certificates"
+msgstr ""
 
 #. module: maintenance_equipment_certification
 #: model_terms:ir.ui.view,arch_db:maintenance_equipment_certification.hr_equipment_view_form
@@ -51,7 +51,7 @@ msgstr "Datum"
 #. module: maintenance_equipment_certification
 #: model:ir.model.fields,field_description:maintenance_equipment_certification.field_maintenance_equipment_certificate__display_name
 msgid "Display Name"
-msgstr "Prikazani naziv"
+msgstr "Naziv za prikaz"
 
 #. module: maintenance_equipment_certification
 #: model:ir.model.fields,field_description:maintenance_equipment_certification.field_maintenance_equipment_certificate__equipment_id
@@ -66,7 +66,7 @@ msgstr "ID"
 #. module: maintenance_equipment_certification
 #: model:ir.model.fields,field_description:maintenance_equipment_certification.field_maintenance_equipment_certificate____last_update
 msgid "Last Modified on"
-msgstr "Zadnje mijenjano"
+msgstr "Zadnja izmjena"
 
 #. module: maintenance_equipment_certification
 #: model:ir.model.fields,field_description:maintenance_equipment_certification.field_maintenance_equipment_certificate__write_uid
@@ -86,12 +86,12 @@ msgstr "Oprema za održavanje"
 #. module: maintenance_equipment_certification
 #: model:ir.model,name:maintenance_equipment_certification.model_maintenance_equipment_certificate
 msgid "Maintenance equipment certificate"
-msgstr "Maintenance equipment certificate"
+msgstr ""
 
 #. module: maintenance_equipment_certification
 #: model:ir.model.fields,field_description:maintenance_equipment_certification.field_maintenance_equipment_certificate__name
 msgid "Name"
-msgstr "Naziv:"
+msgstr "Naziv"
 
 #. module: maintenance_equipment_certification
 #: model:ir.model.fields,field_description:maintenance_equipment_certification.field_maintenance_equipment_certificate__notes

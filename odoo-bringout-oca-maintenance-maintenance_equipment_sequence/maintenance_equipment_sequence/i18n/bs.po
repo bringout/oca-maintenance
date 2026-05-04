@@ -41,12 +41,12 @@ msgstr "Prefiks brojevnog kruga"
 #. module: maintenance_equipment_sequence
 #: model:ir.model.fields,help:maintenance_equipment_sequence.field_maintenance_equipment_category__sequence_prefix
 msgid "The equipment's sequence will be created using this prefix."
-msgstr "The equipment's sequence will be created using this prefix."
+msgstr ""
 
 #. module: maintenance_equipment_sequence
 #: model:ir.model.fields,help:maintenance_equipment_sequence.field_maintenance_equipment_category__sequence_number_next
 msgid "The next sequence number will be used for the next equipment."
-msgstr "The next sequence number will be used for the next equipment."
+msgstr ""
 
 #. module: maintenance_equipment_sequence
 #: model:ir.model.fields,help:maintenance_equipment_sequence.field_maintenance_equipment_category__sequence_id
@@ -54,5 +54,3 @@ msgid ""
 "This field contains the information related to the numbering of the "
 "equipments belonging to this category."
 msgstr ""
-"This field contains the information related to the numbering of the "
-"equipments belonging to this category."

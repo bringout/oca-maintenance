@@ -31,7 +31,7 @@ msgstr "Kreirano"
 #. module: maintenance_equipment_tags
 #: model:ir.model.fields,field_description:maintenance_equipment_tags.field_maintenance_equipment_tag__display_name
 msgid "Display Name"
-msgstr "Prikazani naziv"
+msgstr "Naziv za prikaz"
 
 #. module: maintenance_equipment_tags
 #: model:ir.model.fields,field_description:maintenance_equipment_tags.field_maintenance_equipment_tag__equipment_ids
@@ -41,12 +41,12 @@ msgstr "Oprema"
 #. module: maintenance_equipment_tags
 #: model:ir.model.fields,field_description:maintenance_equipment_tags.field_maintenance_equipment_tag__name
 msgid "Equipment Tag"
-msgstr "Equipment Tag"
+msgstr ""
 
 #. module: maintenance_equipment_tags
 #: model:ir.actions.act_window,name:maintenance_equipment_tags.maintenance_equipment_tag_act_window
 msgid "Equipment Tags"
-msgstr "Equipment Tags"
+msgstr ""
 
 #. module: maintenance_equipment_tags
 #: model:ir.model.fields,field_description:maintenance_equipment_tags.field_maintenance_equipment_tag__id
@@ -56,7 +56,7 @@ msgstr "ID"
 #. module: maintenance_equipment_tags
 #: model:ir.model.fields,field_description:maintenance_equipment_tags.field_maintenance_equipment_tag____last_update
 msgid "Last Modified on"
-msgstr "Zadnje mijenjano"
+msgstr "Zadnja izmjena"
 
 #. module: maintenance_equipment_tags
 #: model:ir.model.fields,field_description:maintenance_equipment_tags.field_maintenance_equipment_tag__write_uid
@@ -76,7 +76,7 @@ msgstr "Oprema za održavanje"
 #. module: maintenance_equipment_tags
 #: model:ir.model,name:maintenance_equipment_tags.model_maintenance_equipment_tag
 msgid "Maintenance Equipment Tag"
-msgstr "Maintenance Equipment Tag"
+msgstr ""
 
 #. module: maintenance_equipment_tags
 #: model:ir.model.constraint,message:maintenance_equipment_tags.constraint_maintenance_equipment_tag_name_uniq
@@ -91,4 +91,4 @@ msgstr "Oznake"
 #. module: maintenance_equipment_tags
 #: model_terms:ir.ui.view,arch_db:maintenance_equipment_tags.hr_equipment_view_form
 msgid "e.g. Computers"
-msgstr "e.g. Computers"
+msgstr ""

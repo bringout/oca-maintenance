@@ -16,7 +16,7 @@ msgstr ""
 #. module: maintenance_plan
 #: model_terms:ir.ui.view,arch_db:maintenance_plan.report_maintenance_request_document
 msgid "<strong>Instructions:</strong>"
-msgstr "<strong>Instructions:</strong>"
+msgstr ""
 
 #. module: maintenance_plan
 #: model:ir.model.fields,field_description:maintenance_plan.field_maintenance_plan__message_needaction
@@ -26,7 +26,7 @@ msgstr "Potrebna akcija"
 #. module: maintenance_plan
 #: model:ir.model.fields,field_description:maintenance_plan.field_maintenance_plan__active
 msgid "Active"
-msgstr "Aktivan"
+msgstr "Aktivno"
 
 #. module: maintenance_plan
 #: model:ir.model.fields,field_description:maintenance_plan.field_maintenance_kind__active
@@ -41,7 +41,7 @@ msgstr "Aktivnosti"
 #. module: maintenance_plan
 #: model:ir.model.fields,field_description:maintenance_plan.field_maintenance_plan__activity_exception_decoration
 msgid "Activity Exception Decoration"
-msgstr "Dekoracija iznimke aktivnosti"
+msgstr "Dekoracija izuzetka aktivnosti"
 
 #. module: maintenance_plan
 #: model:ir.model.fields,field_description:maintenance_plan.field_maintenance_plan__activity_state
@@ -71,7 +71,7 @@ msgstr "Broj priloga"
 #. module: maintenance_plan
 #: model:ir.model.fields,field_description:maintenance_plan.field_maintenance_plan__company_id
 msgid "Company"
-msgstr "Preduzeće"
+msgstr "Kompanija"
 
 #. module: maintenance_plan
 #: model:ir.model.fields,field_description:maintenance_plan.field_maintenance_kind__create_uid
@@ -101,7 +101,7 @@ msgstr "Dan(i)"
 #. module: maintenance_plan
 #: model_terms:ir.ui.view,arch_db:maintenance_plan.hr_equipment_request_view_form
 msgid "Describe the maintenance to do..."
-msgstr "Describe the maintenance to do..."
+msgstr ""
 
 #. module: maintenance_plan
 #: model:ir.model.fields,field_description:maintenance_plan.field_maintenance_plan__name
@@ -111,7 +111,7 @@ msgstr "Opis"
 #. module: maintenance_plan
 #: model:ir.model.fields,field_description:maintenance_plan.field_maintenance_kind__display_name
 msgid "Display Name"
-msgstr "Prikazani naziv"
+msgstr "Naziv za prikaz"
 
 #. module: maintenance_plan
 #: model:ir.model.fields,field_description:maintenance_plan.field_maintenance_plan__skip_notify_follower_on_requests
@@ -136,7 +136,7 @@ msgstr "Pratioci"
 #. module: maintenance_plan
 #: model:ir.model.fields,field_description:maintenance_plan.field_maintenance_plan__message_partner_ids
 msgid "Followers (Partners)"
-msgstr "Pratioci (Partneri)"
+msgstr "Pratioci (partneri)"
 
 #. module: maintenance_plan
 #: model:ir.model.fields,help:maintenance_plan.field_maintenance_plan__activity_type_icon
@@ -156,7 +156,7 @@ msgstr "Generiši sa domenom"
 #. module: maintenance_plan
 #: model_terms:ir.ui.view,arch_db:maintenance_plan.maintenance_plan_view_form
 msgid "Generate requests for current threshold"
-msgstr "Generate requests for current threshold"
+msgstr ""
 
 #. module: maintenance_plan
 #: model:ir.model.fields,field_description:maintenance_plan.field_maintenance_plan__has_message
@@ -176,22 +176,22 @@ msgstr "Ikona"
 #. module: maintenance_plan
 #: model:ir.model.fields,help:maintenance_plan.field_maintenance_plan__activity_exception_icon
 msgid "Icon to indicate an exception activity."
-msgstr "Ikona za prikaz iznimki."
+msgstr "Ikona za označavanje izuzetne aktivnosti."
 
 #. module: maintenance_plan
 #: model:ir.model.fields,help:maintenance_plan.field_maintenance_plan__message_needaction
 msgid "If checked, new messages require your attention."
-msgstr "Ako je zakačeno, nove poruke će zahtjevati vašu pažnju"
+msgstr "Ako je označeno, nove poruke zahtijevaju vašu pažnju."
 
 #. module: maintenance_plan
 #: model:ir.model.fields,help:maintenance_plan.field_maintenance_plan__message_has_error
 msgid "If checked, some messages have a delivery error."
-msgstr "Ako je označeno neke poruke mogu imati grešku u dostavi."
+msgstr "Ako je označeno, neke poruke imaju grešku pri dostavi."
 
 #. module: maintenance_plan
 #: model_terms:ir.ui.view,arch_db:maintenance_plan.maintenance_plan_view_form
 msgid "If not clicked, the scheduled action will do it for you."
-msgstr "If not clicked, the scheduled action will do it for you."
+msgstr ""
 
 #. module: maintenance_plan
 #: model_terms:ir.ui.view,arch_db:maintenance_plan.maintenance_plan_view_search
@@ -201,7 +201,7 @@ msgstr "Neaktivan"
 #. module: maintenance_plan
 #: model_terms:ir.ui.view,arch_db:maintenance_plan.hr_equipment_request_view_form
 msgid "Instructions"
-msgstr "Instructions"
+msgstr ""
 
 #. module: maintenance_plan
 #: model:ir.model.fields,help:maintenance_plan.field_maintenance_plan__interval
@@ -211,17 +211,17 @@ msgstr "Interval između svakog održavanja"
 #. module: maintenance_plan
 #: model:ir.model.fields,field_description:maintenance_plan.field_maintenance_plan__message_is_follower
 msgid "Is Follower"
-msgstr "Pratilac"
+msgstr "Je pratilac"
 
 #. module: maintenance_plan
 #: model_terms:ir.ui.view,arch_db:maintenance_plan.hr_equipment_view_form
 msgid "Kind"
-msgstr "Kind"
+msgstr ""
 
 #. module: maintenance_plan
 #: model:ir.model.fields,field_description:maintenance_plan.field_maintenance_kind____last_update
 msgid "Last Modified on"
-msgstr "Zadnje mijenjano"
+msgstr "Zadnja izmjena"
 
 #. module: maintenance_plan
 #: model:ir.model.fields,field_description:maintenance_plan.field_maintenance_kind__write_uid
@@ -246,14 +246,14 @@ msgstr "Dozvoli da se događaj automatski ponavlja u zadanom intervalu"
 #. module: maintenance_plan
 #: model:ir.model.fields,field_description:maintenance_plan.field_maintenance_plan__message_main_attachment_id
 msgid "Main Attachment"
-msgstr "Glavna zakačka"
+msgstr "Glavni prilog"
 
 #. module: maintenance_plan
 #. odoo-python
-#: code:addons/maintenance_plan/models/maintenance_plan.py
+#: code:addons/maintenance_plan/models/maintenance_plan.py:0
 #, python-format
 msgid "Maintenace Equipment must belong to the equipment's company"
-msgstr "Maintenace Equipment must belong to the equipment's company"
+msgstr ""
 
 #. module: maintenance_plan
 #: model:ir.model.fields,field_description:maintenance_plan.field_maintenance_plan__maintenance_count
@@ -273,7 +273,7 @@ msgstr "Oprema za održavanje"
 #. module: maintenance_plan
 #: model:ir.model,name:maintenance_plan.model_maintenance_kind
 msgid "Maintenance Kind"
-msgstr "Maintenance Kind"
+msgstr ""
 
 #. module: maintenance_plan
 #: model:ir.model,name:maintenance_plan.model_maintenance_plan
@@ -328,7 +328,7 @@ msgstr "Naziv vrste održavanja već postoji."
 #. module: maintenance_plan
 #: model:ir.actions.act_window,name:maintenance_plan.maintenance_kind_action
 msgid "Maintenance kinds"
-msgstr "Maintenance kinds"
+msgstr ""
 
 #. module: maintenance_plan
 #: model:ir.model.fields,field_description:maintenance_plan.field_maintenance_equipment__maintenance_plan_ids
@@ -347,7 +347,7 @@ msgstr ""
 #. module: maintenance_plan
 #: model:ir.actions.act_window,name:maintenance_plan.maintenance_plan_action
 msgid "Maintenance plans"
-msgstr "Maintenance plans"
+msgstr ""
 
 #. module: maintenance_plan
 #: model:ir.model.fields,field_description:maintenance_plan.field_maintenance_plan__maintenance_ids
@@ -357,7 +357,7 @@ msgstr "Zahtjevi za održavanje"
 #. module: maintenance_plan
 #: model:ir.model.fields,field_description:maintenance_plan.field_maintenance_plan__message_has_error
 msgid "Message Delivery error"
-msgstr "Greška pri isporuci poruke"
+msgstr "Greška dostave poruke"
 
 #. module: maintenance_plan
 #: model:ir.model.fields,field_description:maintenance_plan.field_maintenance_plan__message_ids
@@ -377,22 +377,22 @@ msgstr "Mjesečno"
 #. module: maintenance_plan
 #: model:ir.model.fields,field_description:maintenance_plan.field_maintenance_plan__my_activity_date_deadline
 msgid "My Activity Deadline"
-msgstr "Rok za moju aktivnost"
+msgstr "Rok moje aktivnosti"
 
 #. module: maintenance_plan
 #: model:ir.model.fields,field_description:maintenance_plan.field_maintenance_kind__name
 msgid "Name"
-msgstr "Naziv:"
+msgstr "Naziv"
 
 #. module: maintenance_plan
 #: model:ir.model.fields,field_description:maintenance_plan.field_maintenance_plan__activity_date_deadline
 msgid "Next Activity Deadline"
-msgstr "Krajnji rok za sljedeću aktivnost"
+msgstr "Rok sljedeće aktivnosti"
 
 #. module: maintenance_plan
 #: model:ir.model.fields,field_description:maintenance_plan.field_maintenance_plan__activity_summary
 msgid "Next Activity Summary"
-msgstr "Pregled sljedeće aktivnosti"
+msgstr "Sažetak sljedeće aktivnosti"
 
 #. module: maintenance_plan
 #: model:ir.model.fields,field_description:maintenance_plan.field_maintenance_plan__activity_type_id
@@ -427,27 +427,27 @@ msgstr "Broj grešaka"
 #. module: maintenance_plan
 #: model:ir.model.fields,help:maintenance_plan.field_maintenance_plan__message_needaction_counter
 msgid "Number of messages requiring action"
-msgstr "Broj poruka koje zahtijevaju aktivnost"
+msgstr "Broj poruka koje zahtijevaju akciju"
 
 #. module: maintenance_plan
 #: model:ir.model.fields,help:maintenance_plan.field_maintenance_plan__message_has_error_counter
 msgid "Number of messages with delivery error"
-msgstr "Broj poruka sa greškama pri isporuci"
+msgstr "Broj poruka sa greškom pri dostavi"
 
 #. module: maintenance_plan
 #: model_terms:ir.ui.view,arch_db:maintenance_plan.hr_equipment_view_form
 msgid "P. Horizon period"
-msgstr "P. Horizon period"
+msgstr ""
 
 #. module: maintenance_plan
 #: model_terms:ir.ui.view,arch_db:maintenance_plan.hr_equipment_view_form
 msgid "P. Horizon step"
-msgstr "P. Horizon step"
+msgstr ""
 
 #. module: maintenance_plan
 #: model_terms:ir.ui.view,arch_db:maintenance_plan.maintenance_plan_view_form
 msgid "Planning Horizon"
-msgstr "Planning Horizon"
+msgstr ""
 
 #. module: maintenance_plan
 #: model:ir.model.fields,field_description:maintenance_plan.field_maintenance_plan__maintenance_plan_horizon
@@ -466,17 +466,17 @@ msgstr "Planovi"
 
 #. module: maintenance_plan
 #. odoo-python
-#: code:addons/maintenance_plan/models/maintenance_equipment.py
+#: code:addons/maintenance_plan/models/maintenance_equipment.py:0
 #, python-format
 msgid "Preventive Maintenance (%(kind)s) - %(description)s"
-msgstr "Preventive Maintenance (%(kind)s) - %(description)s"
+msgstr ""
 
 #. module: maintenance_plan
 #. odoo-python
-#: code:addons/maintenance_plan/tests/test_maintenance_plan.py
+#: code:addons/maintenance_plan/tests/test_maintenance_plan.py:0
 #, python-format
 msgid "Preventive Maintenance (%(kind)s) - %(plan)s"
-msgstr "Preventive Maintenance (%(kind)s) - %(plan)s"
+msgstr ""
 
 #. module: maintenance_plan
 #: model:ir.model.fields,field_description:maintenance_plan.field_maintenance_plan__interval_step
@@ -495,19 +495,17 @@ msgstr "Pretraga opreme"
 
 #. module: maintenance_plan
 #. odoo-python
-#: code:addons/maintenance_plan/models/maintenance_equipment.py
+#: code:addons/maintenance_plan/models/maintenance_equipment.py:0
 #, python-format
 msgid ""
 "Some maintenance plan's company is incompatible with the company of this "
 "equipment."
 msgstr ""
-"Some maintenance plan's company is incompatible with the company of this "
-"equipment."
 
 #. module: maintenance_plan
 #: model_terms:ir.ui.view,arch_db:maintenance_plan.hr_equipment_view_form
 msgid "Start Date"
-msgstr "Početni datum"
+msgstr "Početni Datum"
 
 #. module: maintenance_plan
 #: model:ir.model.fields,field_description:maintenance_plan.field_maintenance_plan__start_maintenance_date
@@ -522,8 +520,8 @@ msgid ""
 "Today: Activity date is today\n"
 "Planned: Future activities."
 msgstr ""
-"Status baziran na aktivnostima\n"
-"Zakašnjelo: Rok je već prošao\n"
+"Status na osnovu aktivnosti\n"
+"Isteklo: Rok je već prošao\n"
 "Danas: Datum aktivnosti je danas\n"
 "Planirano: Buduće aktivnosti."
 
@@ -534,21 +532,18 @@ msgstr "Tim"
 
 #. module: maintenance_plan
 #. odoo-python
-#: code:addons/maintenance_plan/models/maintenance_plan.py
+#: code:addons/maintenance_plan/models/maintenance_plan.py:0
 #, python-format
 msgid ""
 "The maintenance plan %(kind)s of equipment %(eqpmnt)s has generated a "
 "request which is not done yet. You should either set the request as done, "
 "remove its maintenance kind or delete it first."
 msgstr ""
-"The maintenance plan %(kind)s of equipment %(eqpmnt)s has generated a "
-"request which is not done yet. You should either set the request as done, "
-"remove its maintenance kind or delete it first."
 
 #. module: maintenance_plan
 #: model:ir.model.fields,help:maintenance_plan.field_maintenance_plan__activity_exception_decoration
 msgid "Type of the exception activity on record."
-msgstr "Vrsta aktivnosti iznimke na zapisu."
+msgstr "Tip izuzetne aktivnosti na zapisu."
 
 #. module: maintenance_plan
 #: model_terms:ir.ui.view,arch_db:maintenance_plan.maintenance_plan_view_search
@@ -557,53 +552,53 @@ msgstr "Pod održavanjem"
 
 #. module: maintenance_plan
 #. odoo-python
-#: code:addons/maintenance_plan/tests/test_maintenance_plan.py
+#: code:addons/maintenance_plan/tests/test_maintenance_plan.py:0
 #, python-format
 msgid "Unnamed %(kind)s plan (%(eqpmnt)s)"
-msgstr "Unnamed %(kind)s plan (%(eqpmnt)s)"
+msgstr ""
 
 #. module: maintenance_plan
 #. odoo-python
-#: code:addons/maintenance_plan/models/maintenance_plan.py
+#: code:addons/maintenance_plan/models/maintenance_plan.py:0
 #, python-format
 msgid "Unnamed %(kind)s plan (%(eqpmt)s)"
-msgstr "Unnamed %(kind)s plan (%(eqpmt)s)"
+msgstr ""
 
 #. module: maintenance_plan
 #. odoo-python
-#: code:addons/maintenance_plan/tests/test_maintenance_plan.py
+#: code:addons/maintenance_plan/tests/test_maintenance_plan.py:0
 #, python-format
 msgid "Unnamed %(void)s plan (%(eqpmnt)s)"
-msgstr "Unnamed %(void)s plan (%(eqpmnt)s)"
+msgstr ""
 
 #. module: maintenance_plan
 #. odoo-python
-#: code:addons/maintenance_plan/models/maintenance_equipment.py
+#: code:addons/maintenance_plan/models/maintenance_equipment.py:0
 #, python-format
 msgid "Unspecified kind"
-msgstr "Unspecified kind"
+msgstr ""
 
 #. module: maintenance_plan
 #. odoo-python
-#: code:addons/maintenance_plan/models/maintenance_plan.py
+#: code:addons/maintenance_plan/models/maintenance_plan.py:0
 #, python-format
 msgid "Unsupported search operator"
-msgstr "Unsupported search operator"
+msgstr ""
 
 #. module: maintenance_plan
 #: model:ir.model.fields,field_description:maintenance_plan.field_maintenance_plan__website_message_ids
 msgid "Website Messages"
-msgstr "Poruke sa website-a"
+msgstr "Poruke web stranice"
 
 #. module: maintenance_plan
 #: model:ir.model.fields,help:maintenance_plan.field_maintenance_plan__website_message_ids
 msgid "Website communication history"
-msgstr "Povijest komunikacije Web stranice"
+msgstr "Historija komunikacije web stranice"
 
 #. module: maintenance_plan
 #: model:ir.model.fields.selection,name:maintenance_plan.selection__maintenance_plan__interval_step__week
 msgid "Week(s)"
-msgstr "Sedmica"
+msgstr "Sedmica(e)"
 
 #. module: maintenance_plan
 #: model:maintenance.kind,name:maintenance_plan.maintenance_kind_weekly
@@ -613,7 +608,7 @@ msgstr "Sedmično"
 #. module: maintenance_plan
 #: model:ir.model.fields.selection,name:maintenance_plan.selection__maintenance_plan__interval_step__year
 msgid "Year(s)"
-msgstr "Godin(e)a"
+msgstr "Godina(e)"
 
 #. module: maintenance_plan
 #: model:ir.model.constraint,message:maintenance_plan.constraint_maintenance_plan_equipment_kind_uniq
@@ -626,18 +621,15 @@ msgstr ""
 
 #. module: maintenance_plan
 #. odoo-python
-#: code:addons/maintenance_plan/hooks.py
+#: code:addons/maintenance_plan/hooks.py:0
 #, python-format
 msgid ""
 "You have multiple preventive maintenance requests on equipment %(name)s next"
 " action date (%(date)s). Please leave only one preventive request on the "
 "date of equipment's next action to install the module."
 msgstr ""
-"You have multiple preventive maintenance requests on equipment %(name)s next"
-" action date (%(date)s). Please leave only one preventive request on the "
-"date of equipment's next action to install the module."
 
 #. module: maintenance_plan
 #: model_terms:ir.ui.view,arch_db:maintenance_plan.maintenance_plan_view_form
 msgid "e.g. Calibration"
-msgstr "e.g. Calibration"
+msgstr ""

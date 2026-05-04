@@ -16,7 +16,7 @@ msgstr ""
 #. module: maintenance_equipment_status
 #: model:ir.model.fields,field_description:maintenance_equipment_status.field_maintenance_equipment_status__active
 msgid "Active"
-msgstr "Aktivan"
+msgstr "Aktivno"
 
 #. module: maintenance_equipment_status
 #: model_terms:ir.ui.view,arch_db:maintenance_equipment_status.maintenance_equipment_status_view_form
@@ -31,7 +31,7 @@ msgstr "Kategorije"
 #. module: maintenance_equipment_status
 #: model_terms:ir.actions.act_window,help:maintenance_equipment_status.maintenance_equipment_status_action
 msgid "Click to set a new status for your equipments."
-msgstr "Click to set a new status for your equipments."
+msgstr ""
 
 #. module: maintenance_equipment_status
 #: model:ir.model.fields,field_description:maintenance_equipment_status.field_maintenance_equipment_status__create_uid
@@ -46,17 +46,17 @@ msgstr "Kreirano"
 #. module: maintenance_equipment_status
 #: model:ir.model.fields,field_description:maintenance_equipment_status.field_maintenance_equipment_status__display_name
 msgid "Display Name"
-msgstr "Prikazani naziv"
+msgstr "Naziv za prikaz"
 
 #. module: maintenance_equipment_status
 #: model_terms:ir.ui.view,arch_db:maintenance_equipment_status.maintenance_equipment_status_view_form
 msgid "Equipment Status"
-msgstr "Equipment Status"
+msgstr ""
 
 #. module: maintenance_equipment_status
 #: model:ir.actions.act_window,name:maintenance_equipment_status.maintenance_equipment_status_action
 msgid "Equipment Statuses"
-msgstr "Equipment Statuses"
+msgstr ""
 
 #. module: maintenance_equipment_status
 #: model:ir.model.fields,field_description:maintenance_equipment_status.field_maintenance_equipment_status__id
@@ -66,7 +66,7 @@ msgstr "ID"
 #. module: maintenance_equipment_status
 #: model:ir.model.fields,field_description:maintenance_equipment_status.field_maintenance_equipment_status____last_update
 msgid "Last Modified on"
-msgstr "Zadnje mijenjano"
+msgstr "Zadnja izmjena"
 
 #. module: maintenance_equipment_status
 #: model:ir.model.fields,field_description:maintenance_equipment_status.field_maintenance_equipment_status__write_uid
@@ -86,12 +86,12 @@ msgstr "Oprema za održavanje"
 #. module: maintenance_equipment_status
 #: model:ir.model,name:maintenance_equipment_status.model_maintenance_equipment_status
 msgid "Maintenance Equipment Status"
-msgstr "Maintenance Equipment Status"
+msgstr ""
 
 #. module: maintenance_equipment_status
 #: model:ir.model.fields,field_description:maintenance_equipment_status.field_maintenance_equipment_status__name
 msgid "Name"
-msgstr "Naziv:"
+msgstr "Naziv"
 
 #. module: maintenance_equipment_status
 #: model:ir.model.fields,field_description:maintenance_equipment_status.field_maintenance_equipment_status__note
@@ -106,12 +106,12 @@ msgstr "Zabilješke"
 #. module: maintenance_equipment_status
 #: model:ir.model.fields,field_description:maintenance_equipment_status.field_maintenance_equipment_status__sequence
 msgid "Sequence"
-msgstr "Sekvenca"
+msgstr "Redoslijed"
 
 #. module: maintenance_equipment_status
 #: model:ir.model.fields,field_description:maintenance_equipment_status.field_maintenance_equipment__status_id
 msgid "Status"
-msgstr "Status"
+msgstr ""
 
 #. module: maintenance_equipment_status
 #: model:ir.model.fields,help:maintenance_equipment_status.field_maintenance_equipment_status__category_ids
@@ -119,8 +119,6 @@ msgid ""
 "When set, this status will only be applicable to the equipments under these "
 "categories."
 msgstr ""
-"When set, this status will only be applicable to the equipments under these "
-"categories."
 
 #. module: maintenance_equipment_status
 #: model_terms:ir.ui.view,arch_db:maintenance_equipment_status.maintenance_equipment_status_view_form

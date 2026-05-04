@@ -25,7 +25,7 @@ msgstr "Tip aktivnosti"
 
 #. module: maintenance_plan_activity
 #. odoo-python
-#: code:addons/maintenance_plan_activity/models/maintenance.py
+#: code:addons/maintenance_plan_activity/models/maintenance.py:0
 #, python-format
 msgid "Activity automatically generated from maintenance plan"
 msgstr "Aktivnost automatski generisana iz plana održavanja"
@@ -43,7 +43,7 @@ msgstr "Kreirano"
 #. module: maintenance_plan_activity
 #: model:ir.model.fields,field_description:maintenance_plan_activity.field_maintenance_planned_activity__display_name
 msgid "Display Name"
-msgstr "Prikazani naziv"
+msgstr "Naziv za prikaz"
 
 #. module: maintenance_plan_activity
 #: model:ir.model.fields,field_description:maintenance_plan_activity.field_maintenance_planned_activity__id
@@ -53,7 +53,7 @@ msgstr "ID"
 #. module: maintenance_plan_activity
 #: model:ir.model.fields,field_description:maintenance_plan_activity.field_maintenance_planned_activity____last_update
 msgid "Last Modified on"
-msgstr "Zadnje mijenjano"
+msgstr "Zadnja izmjena"
 
 #. module: maintenance_plan_activity
 #: model:ir.model.fields,field_description:maintenance_plan_activity.field_maintenance_planned_activity__write_uid

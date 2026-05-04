@@ -56,7 +56,7 @@ msgstr "<strong>Tip održavanja:</strong>"
 #. module: base_maintenance
 #: model_terms:ir.ui.view,arch_db:base_maintenance.report_maintenance_request_document
 msgid "<strong>Model:</strong>"
-msgstr "<strong>Model:</strong>"
+msgstr ""
 
 #. module: base_maintenance
 #: model_terms:ir.ui.view,arch_db:base_maintenance.report_maintenance_request_document
