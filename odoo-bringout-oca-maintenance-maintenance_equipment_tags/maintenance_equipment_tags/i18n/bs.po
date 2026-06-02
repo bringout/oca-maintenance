@@ -31,7 +31,7 @@ msgstr "Kreirano"
 #. module: maintenance_equipment_tags
 #: model:ir.model.fields,field_description:maintenance_equipment_tags.field_maintenance_equipment_tag__display_name
 msgid "Display Name"
-msgstr "Naziv za prikaz"
+msgstr "Naziv prikaza"
 
 #. module: maintenance_equipment_tags
 #: model:ir.model.fields,field_description:maintenance_equipment_tags.field_maintenance_equipment_tag__equipment_ids
@@ -56,17 +56,17 @@ msgstr "ID"
 #. module: maintenance_equipment_tags
 #: model:ir.model.fields,field_description:maintenance_equipment_tags.field_maintenance_equipment_tag____last_update
 msgid "Last Modified on"
-msgstr "Zadnja izmjena"
+msgstr "Zadnji put izmijenjeno"
 
 #. module: maintenance_equipment_tags
 #: model:ir.model.fields,field_description:maintenance_equipment_tags.field_maintenance_equipment_tag__write_uid
 msgid "Last Updated by"
-msgstr "Zadnji ažurirao"
+msgstr "Zadnji put ažurirao"
 
 #. module: maintenance_equipment_tags
 #: model:ir.model.fields,field_description:maintenance_equipment_tags.field_maintenance_equipment_tag__write_date
 msgid "Last Updated on"
-msgstr "Zadnje ažurirano"
+msgstr "Zadnji put ažurirano"
 
 #. module: maintenance_equipment_tags
 #: model:ir.model,name:maintenance_equipment_tags.model_maintenance_equipment

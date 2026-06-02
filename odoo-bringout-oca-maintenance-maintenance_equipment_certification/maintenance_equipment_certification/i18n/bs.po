@@ -51,7 +51,7 @@ msgstr "Datum"
 #. module: maintenance_equipment_certification
 #: model:ir.model.fields,field_description:maintenance_equipment_certification.field_maintenance_equipment_certificate__display_name
 msgid "Display Name"
-msgstr "Naziv za prikaz"
+msgstr "Naziv prikaza"
 
 #. module: maintenance_equipment_certification
 #: model:ir.model.fields,field_description:maintenance_equipment_certification.field_maintenance_equipment_certificate__equipment_id
@@ -66,17 +66,17 @@ msgstr "ID"
 #. module: maintenance_equipment_certification
 #: model:ir.model.fields,field_description:maintenance_equipment_certification.field_maintenance_equipment_certificate____last_update
 msgid "Last Modified on"
-msgstr "Zadnja izmjena"
+msgstr "Zadnji put izmijenjeno"
 
 #. module: maintenance_equipment_certification
 #: model:ir.model.fields,field_description:maintenance_equipment_certification.field_maintenance_equipment_certificate__write_uid
 msgid "Last Updated by"
-msgstr "Zadnji ažurirao"
+msgstr "Zadnji put ažurirao"
 
 #. module: maintenance_equipment_certification
 #: model:ir.model.fields,field_description:maintenance_equipment_certification.field_maintenance_equipment_certificate__write_date
 msgid "Last Updated on"
-msgstr "Zadnje ažurirano"
+msgstr "Zadnji put ažurirano"
 
 #. module: maintenance_equipment_certification
 #: model:ir.model,name:maintenance_equipment_certification.model_maintenance_equipment
@@ -96,4 +96,4 @@ msgstr "Naziv"
 #. module: maintenance_equipment_certification
 #: model:ir.model.fields,field_description:maintenance_equipment_certification.field_maintenance_equipment_certificate__notes
 msgid "Notes"
-msgstr "Zabilješke"
+msgstr "Napomene"
